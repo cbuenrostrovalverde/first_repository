@@ -1,2 +1,0 @@
-Hello, there! 
-Here's the new file created on my own. Let's upload it to Github.
